@@ -6,15 +6,13 @@
 // KUID: 2876941
 //
 // cycles through images in folder ./image/
+// image_x.jpeg file name convention
 //
 
 
 document.addEventListener("DOMContentLoaded", () => {
-	//get input values and math operation to use
-	// let input1 = document.querySelector("#input1");
-	// let input1 = document.getElementById('input1').value;
-	// let input2 = document.querySelector("#input2");
-	// let current = document.getElementById('image_blk').src;
+	//get input values needed
+
 
 	document.querySelector("#reverse").addEventListener("click", (e) => {
     let current = document.getElementById('image_blk').src;
