@@ -1,0 +1,45 @@
+/*
+ * profile page style
+ *
+ * Authors: AMA
+ *
+ * Date: nov 11 2021
+ *
+ */
+
+#main_body{
+
+}
+
+.link {
+font-size: 20px;
+}
+
+.link:hover {
+ background-color: red;
+ color: blue;
+
+}
+
+.profile_img {
+ /* position: absolute; */
+ top: 30;
+ left: 400;
+}
+
+.bio_h2 {
+  font-size: 30px;
+}
+
+#name {
+ font-size: 40px;
+ font-family: fantasy;
+ text-shadow: black;
+ text-emphasis-color: blue;
+}
+
+#bio_p {
+ font-size: 20px;
+ text-shadow: black;
+ color: purple;
+}
