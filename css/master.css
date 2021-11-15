@@ -12,6 +12,10 @@
    color: white;
  }
 
+ .text_center{
+  text-align: center;
+ }
+
  #head_h1 {
    font-size: 40px;
  }
