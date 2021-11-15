@@ -7,6 +7,24 @@
  *
  */
 
+ .head{
+   font-family: monospace;
+   color: white;
+ }
+
+ #head_h1 {
+   font-size: 40px;
+ }
+
+ #head_p {
+   font-size: 20px;
+ }
+
+ #lab8_h1{
+   font-size: 30px;
+   text-decoration: underline;
+ }
+
 #profile_body{
   background-image: url(../image/blue_grade.jpg);
   background-size: cover;
@@ -20,6 +38,7 @@
 .link {
 font-size: 20px;
 color: white;
+font-family: monospace;
 }
 
 .link:hover {
